@@ -1,4 +1,5 @@
 //This is my first app
+//Change is the only constant
 //Package declaration
 package myapp.core;
 
